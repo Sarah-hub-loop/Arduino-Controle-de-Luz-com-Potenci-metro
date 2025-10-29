@@ -45,7 +45,7 @@ O Resistor em led servirá para que eviatar sua sobreceraga, evitando que ele qu
 E o fato de ligar em uma porta digital com o símbolo ~acontece devido as portas digitais (GPI0) marcadas com um ~(til) possuírem a capacidade de servirem saída do tipo PWM.
 Uma saída do tipo PWM automaticamente alterna os períodos em que ela está ligada (HIGH) e em que está desligada (LOW). A proporção do tempo em que a saída está ligada em relação ao tempo total do ciclo
 é chamado de Duty Cycle, e varia de 0 a 100%, ou no caso de 0 até 255.
-a
+
 
 # Executando Código 
 
@@ -79,7 +79,7 @@ Chegando quase ao final da execução do Projeto, é preciso clicar em Start Sim
 reprsentado pela figura, por meio de um corte especial mostrando somente o código-fonte e saída serial. 
 
 
-Acesse e compartilhe: 
+Disponível no link abaixo: 
 
 https://www.tinkercad.com/things/4sGHuITMBj1/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=jfLGnN1EJz9pRzGXOZVemIhuTvJ8_Jigv70cAhPG7aQ
 
